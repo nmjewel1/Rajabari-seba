@@ -1,0 +1,14 @@
+{
+  "name": "rajbari-sheba-bot",
+  "version": "1.0.0",
+  "description": "রাজবাড়ী জেলা সেবা টেলিগ্রাম বট",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^11.11.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
